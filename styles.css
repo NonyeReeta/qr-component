@@ -32,26 +32,17 @@ img {
 
 div{
     padding: 20px;
+    text-align: center;
 }
 
 h1 {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     font-weight: 600;
     color: #252525;
+    
 }
 
 p {
     color: #7b879d;
     padding-top: 10px;
 }
-
-/* @media screen and (min-width: 600px){
-    body {
-        background: #252525;
-        height: 100vh;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        width: 20%;
-    }
-} */
